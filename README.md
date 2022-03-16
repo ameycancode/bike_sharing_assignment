@@ -35,10 +35,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Final model indicates that feature 'atemp' has highest positive co-efficient value followed by 'yr'. Whereas 'windspeed' has highest negative co-efficient value.
+- Adj R-sq of training dataset was 82% and that of test dataset was 79%. Hence difference is just 3% which indicates that this is a very stable model
+- We also observed that on the test dataset, actual and predicted values are almost overlapping. Again a confirmation that model is good
+- All the assumptions of Linear Regression were found to be true with this model.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
